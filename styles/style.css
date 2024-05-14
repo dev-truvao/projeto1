@@ -97,7 +97,7 @@ body {
   width: 50%;
 }
 .rodape {
-  color: var(--cor-primaria);
+  color: var(--cor-secundaria);
   background-color: var(--cor-terciaria);
   padding: 24px;
   text-align: center;
