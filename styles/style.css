@@ -108,9 +108,6 @@ body {
   font-family: var(--fonte-secundaria);
   font-size: 1.5rem;
   font-weight: 400;
-  position: fixed; /* Posicionamento fixo para manter o rodapé no final da janela */
-  bottom: 0; /* Coloca o rodapé no final da janela */
-  width: 100%; /* Faz o rodapé ocupar toda a largura da janela */
 }
 
 @media (max-width: 1200px) {
